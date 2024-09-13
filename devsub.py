@@ -1,1 +1,1 @@
-print("study on Monday")
+print("study on Monday and in the afternoon")
